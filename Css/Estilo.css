@@ -48,9 +48,9 @@ h2 {
 	100% {margin-left: -300%;}
 }
 .nav{
-	background-color:#fcdcdf ;
+	background-color:rgb(25, 51, 199) ;
 	
-	border: 8px #b1eef1 solid;
+	border: 8px #575757 solid;
 	
 	
 	  
@@ -65,18 +65,19 @@ h2 {
 	.nav_li{
 		display: inline-block;
 		padding: 15px 50px;
-		color: #c897c6;
+		color: #020203;
 		font-size: 30px;
 	}
 	.nav_li a{
-		color: #c897c6;
+		font-family: sans-serif;
+		color: #1a1919;
 		text-decoration: none;
 	}
 	.nav_li:hover > a{
-		color: #84d9dc;
+		color: rgb(255, 255, 255);
 	}
 	.nav_li:hover{
-		color: #a49fa5;
+		color: #a09fa5;
 	}
 	.submenu_i{
 		background-color: #4a989a;
@@ -93,4 +94,16 @@ h2 {
 	.nav_li-inicio{
 		text-align: left;
 	}
-	
+	.logo{
+		height: 75px;
+		width: 75px;
+		border-radius: 50%;
+		margin-bottom: -20px;
+		margin-top: 2px;
+		margin-left: 10px;
+		margin-right: -40px;
+	}
+	.nav_li-mid{
+
+		left: 200px;
+	}
