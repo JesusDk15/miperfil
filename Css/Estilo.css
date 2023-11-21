@@ -30,7 +30,7 @@ h2 {
 	padding: 0;
 	width: 500%;
 	
-	animation: slide 15s infinite alternate ease-in-out;
+	animation: slide 45s infinite alternate ease-in-out;
 }
 
 .slider-frame li {
