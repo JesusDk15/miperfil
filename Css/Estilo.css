@@ -232,3 +232,12 @@ footer{
   font-size: 16px;
 }
 
+	#lienzo {
+		position: absolute;
+		top: 0; 
+		left: 0;
+		z-index: -1;
+	  }
+	#contenedor {
+		position: relative;
+	  }
